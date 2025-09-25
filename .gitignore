@@ -1,0 +1,90 @@
+# Python compiled files
+__pycache__/
+
+
+# Distribution / packaging
+build/
+dist/
+downloads/
+
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.env
+compose.env
+!.env.example
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+
+# Google Cloud credentials and sensitive files
+*.json
+!.env.example
+a2a_agent/agents/data_science/agent-bake-off-episode-2-91a9bffe53ad.json
+setup_gcp_credentials.sh
+
+# Data science artifacts
+a2a_agent/data_science.egg-info/
+*.egg-info/
+
+# ADK/Agent artifacts  
+sessions.db
+*.db
