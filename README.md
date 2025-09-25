@@ -394,4 +394,4 @@ The key insight - that financial services require hybrid intelligence rather tha
 
 ## 📝 License
 
-Competition Submission - Google AI Agent Bake-off 2024
+Competition Submission - Google AI Agent Bake-off 2025
