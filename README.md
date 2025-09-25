@@ -1,6 +1,6 @@
 # 🏆 Cymbal Bank AI Financial Agents Suite
 ### Google AI Agent Bake-off Competition Submission
-**Team: Ayo Adedeji & Adrian Osorio**
+**Team: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" alt="drawing" width="20"/> [Adrian Osorio](https://www.linkedin.com/in/adrianosoriob/) and [Ayo Adedeji](https://www.linkedin.com/in/ayoadedeji/)**
 
 ---
 
